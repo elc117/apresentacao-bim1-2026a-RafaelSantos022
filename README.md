@@ -22,11 +22,11 @@ Parte prática:
 
 Exercício 1:
 
-![Execução duração da música]()
+![Execução duração da música](duration_secs.png)
 
 Exercício 2:
 
-![Execução filter(recursão)](https://imgur.com/729lZYn)
+![Execução filter(recursão)](shorts.png)
 
 Exercício 3:
 
@@ -34,7 +34,7 @@ Exercício 3:
 
 Exercício 4:
 
-![Execução músicas curtas(regra)](https://imgur.com/LC26Gzy)
+![Execução músicas curtas(regra)](regra.png)
 
 Referências:
 https://lpn.swi-prolog.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse1
