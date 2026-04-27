@@ -22,7 +22,7 @@ Parte prática:
 
 Exercício 1:
 
-![Execução duração da música](duration_secs.png)
+![Execução duração da música](duration_secs.jpeg)
 
 Exercício 2:
 
