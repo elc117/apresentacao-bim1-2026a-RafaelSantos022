@@ -22,7 +22,7 @@ Parte prática:
 
 Exercício 1:
 
-![Execução duração da música](https://imgur.com/eBLNoRY)
+![Execução duração da música]()
 
 Exercício 2:
 
@@ -30,7 +30,7 @@ Exercício 2:
 
 Exercício 3:
 
-![Execução músicas curtas(consulta)](https://imgur.com/a/iZL2HIE)
+![Execução músicas curtas(consulta)](exerc1.png)
 
 Exercício 4:
 
